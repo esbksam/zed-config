@@ -3,6 +3,7 @@
    "theme": "Gruvbox Dark",
    "theme_overrides": {
       "Gruvbox Dark": {
+          "background": "#282828",
          "editor.document_highlight.read_background": "#00000000",
          "editor.document_highlight.write_background": "#00000000",
          "border.variant": "#282828",
